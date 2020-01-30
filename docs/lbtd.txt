@@ -1,0 +1,12 @@
+
+
+----------------------
+TODO
+meta description
+meta keywords
+
+xml-site map
+robot.txt
+google analytics
+
+
